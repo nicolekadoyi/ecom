@@ -1,0 +1,110 @@
+.banner {
+  background-image: url("/assets/images/banner.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: coral;
+  padding: 15rem;
+}
+
+nav {
+  padding-bottom: 10%;
+}
+
+.cat-p {
+  width: 70%;
+}
+
+.cat-img {
+  padding-bottom: 2%;
+}
+
+.categories {
+  background-color: #F1D3CE;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-top: 5%;
+}
+
+.carousel-content {
+  list-style-type: none;
+}
+
+.cart {
+  background-color: #D1E9F6;
+  padding: 5% 5% 0;
+}
+
+.cart-card {
+  padding: 5%;
+}
+
+.cart-card > img {
+  height: 10rem;
+}
+
+.total {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.listing-p {
+  width: 60%;
+}
+
+.listing-heading {
+  padding-bottom: 10%;
+}
+
+.listing-img {
+  height: 500px;
+  width: 500px;
+}
+
+footer {
+  background-color: #F1D3CE;
+}
+
+.logo {
+  text-decoration: none;
+  color: #EECAD5;
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 10rem;
+}
+
+.logo-footer {
+  color: #000;
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 5rem;
+  text-decoration: none;
+  margin-bottom: 5%;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+  font-weight: bolder;
+  color: #EECAD5;
+}
+
+.footer-link {
+  display: block;
+  text-decoration: none;
+  color: #000;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+h2, h5, h6 {
+  padding-bottom: 3%;
+}
+
+.container, .container-fluid {
+  padding-bottom: 10%;
+}

@@ -1,0 +1,33 @@
+.banner {
+  background-image: url("/assets/images/banner.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: coral;
+  padding: 15rem;
+}
+
+.banner-p {
+  float: left;
+  width: 60%;
+  color: #F1D3CE;
+}
+
+nav {
+  padding-bottom: 10%;
+}
+
+.cat-p {
+  width: 70%;
+}
+
+.cat-img {
+  padding-bottom: 2%;
+}
+
+.categories {
+  background-color: #F1D3CE;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-top: 5%;
+}
